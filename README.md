@@ -6,7 +6,7 @@
 - 将day.yml里面的phone和password里面的xxx替换成自己的网易云账号密码即可
 - 第一次创建后等待1小时，以后每小时脚本会自动运行一次进行检测，可在项目上方的Actions里查看运行记录
 ## 使用效果
-
+<img src="ActionsDemo.png">
 <img src="demo.jpg"  width="300px">
 
 ## day.yml
