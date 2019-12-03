@@ -16,7 +16,7 @@ name: 网易云音乐日推自动创建歌单
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '* */1 * * *'
+    - cron:  '30 * * * *'
 
 jobs:
   build:
